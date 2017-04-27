@@ -60,8 +60,8 @@ If you want to use babel-transformations besides the built-in ES2015 preset, you
 in your projects root directory (if not already present) or use the `babel` section of your `package.json` file.
 
 ## Todo
-[ ] Add examples
-[ ] Add module exports for `export default` syntax 
+- [ ] Add examples
+- [ ] Add module exports for `export default` syntax 
 
 ## License
 MIT
